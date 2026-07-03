@@ -1,0 +1,4504 @@
+[
+    {
+        "transactionId":  "TXN001",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-18",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  232.66
+    },
+    {
+        "transactionId":  "TXN002",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-27",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  156.8
+    },
+    {
+        "transactionId":  "TXN003",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-12",
+        "product":  "Extended Mousepad",
+        "amount":  28.2
+    },
+    {
+        "transactionId":  "TXN004",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-08",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  173.84
+    },
+    {
+        "transactionId":  "TXN005",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-12",
+        "product":  "1080p Streaming Webcam",
+        "amount":  94.6
+    },
+    {
+        "transactionId":  "TXN006",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-26",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  19.37
+    },
+    {
+        "transactionId":  "TXN007",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-08",
+        "product":  "HDMI Cable 6ft",
+        "amount":  11.18
+    },
+    {
+        "transactionId":  "TXN008",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-05-25",
+        "product":  "Premium Wireless Mouse",
+        "amount":  55.16
+    },
+    {
+        "transactionId":  "TXN009",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-29",
+        "product":  "Extended Mousepad",
+        "amount":  29.02
+    },
+    {
+        "transactionId":  "TXN010",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-08",
+        "product":  "Screen Cleaning Kit",
+        "amount":  14.78
+    },
+    {
+        "transactionId":  "TXN011",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-13",
+        "product":  "Screen Cleaning Kit",
+        "amount":  17.94
+    },
+    {
+        "transactionId":  "TXN012",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-13",
+        "product":  "Extended Mousepad",
+        "amount":  20.79
+    },
+    {
+        "transactionId":  "TXN013",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-03",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  23.13
+    },
+    {
+        "transactionId":  "TXN014",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-06-01",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  60.14
+    },
+    {
+        "transactionId":  "TXN015",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-26",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  12.23
+    },
+    {
+        "transactionId":  "TXN016",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-07",
+        "product":  "Premium Wireless Mouse",
+        "amount":  94.45
+    },
+    {
+        "transactionId":  "TXN017",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-02",
+        "product":  "Premium Wireless Mouse",
+        "amount":  69.08
+    },
+    {
+        "transactionId":  "TXN018",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-09",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  57.4
+    },
+    {
+        "transactionId":  "TXN019",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-01",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  15.42
+    },
+    {
+        "transactionId":  "TXN020",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-28",
+        "product":  "Screen Cleaning Kit",
+        "amount":  16.7
+    },
+    {
+        "transactionId":  "TXN021",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-25",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  175.75
+    },
+    {
+        "transactionId":  "TXN022",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-19",
+        "product":  "Extended Mousepad",
+        "amount":  26.06
+    },
+    {
+        "transactionId":  "TXN023",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-07-19",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  149.59
+    },
+    {
+        "transactionId":  "TXN024",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-31",
+        "product":  "Premium Wireless Mouse",
+        "amount":  55.07
+    },
+    {
+        "transactionId":  "TXN025",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-05-07",
+        "product":  "Premium Wireless Mouse",
+        "amount":  80.28
+    },
+    {
+        "transactionId":  "TXN026",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-26",
+        "product":  "Screen Cleaning Kit",
+        "amount":  13.65
+    },
+    {
+        "transactionId":  "TXN027",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-07-14",
+        "product":  "Extended Mousepad",
+        "amount":  28.76
+    },
+    {
+        "transactionId":  "TXN028",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-07",
+        "product":  "Premium Wireless Mouse",
+        "amount":  73.7
+    },
+    {
+        "transactionId":  "TXN029",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-01",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.93
+    },
+    {
+        "transactionId":  "TXN030",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-17",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  125.81
+    },
+    {
+        "transactionId":  "TXN031",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-25",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  11.88
+    },
+    {
+        "transactionId":  "TXN032",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-15",
+        "product":  "HDMI Cable 6ft",
+        "amount":  18.79
+    },
+    {
+        "transactionId":  "TXN033",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-15",
+        "product":  "Screen Cleaning Kit",
+        "amount":  13.33
+    },
+    {
+        "transactionId":  "TXN034",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-07-06",
+        "product":  "Premium Wireless Mouse",
+        "amount":  85.65
+    },
+    {
+        "transactionId":  "TXN035",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-28",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  15.96
+    },
+    {
+        "transactionId":  "TXN036",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-22",
+        "product":  "Extended Mousepad",
+        "amount":  15.45
+    },
+    {
+        "transactionId":  "TXN037",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-17",
+        "product":  "Extended Mousepad",
+        "amount":  14.66
+    },
+    {
+        "transactionId":  "TXN038",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-13",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  143.7
+    },
+    {
+        "transactionId":  "TXN039",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-13",
+        "product":  "Extended Mousepad",
+        "amount":  13.03
+    },
+    {
+        "transactionId":  "TXN040",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-06-30",
+        "product":  "HDMI Cable 6ft",
+        "amount":  13.51
+    },
+    {
+        "transactionId":  "TXN041",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-15",
+        "product":  "HDMI Cable 6ft",
+        "amount":  11.35
+    },
+    {
+        "transactionId":  "TXN042",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-06",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  143.06
+    },
+    {
+        "transactionId":  "TXN043",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-29",
+        "product":  "Extended Mousepad",
+        "amount":  29.39
+    },
+    {
+        "transactionId":  "TXN044",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-22",
+        "product":  "1080p Streaming Webcam",
+        "amount":  93.94
+    },
+    {
+        "transactionId":  "TXN045",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-25",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  210.62
+    },
+    {
+        "transactionId":  "TXN046",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-05-29",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  157.68
+    },
+    {
+        "transactionId":  "TXN047",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-05",
+        "product":  "Screen Cleaning Kit",
+        "amount":  12.17
+    },
+    {
+        "transactionId":  "TXN048",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-04",
+        "product":  "Bluetooth Adapter",
+        "amount":  10.75
+    },
+    {
+        "transactionId":  "TXN049",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-21",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  136.01
+    },
+    {
+        "transactionId":  "TXN050",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-18",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  127.59
+    },
+    {
+        "transactionId":  "TXN051",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-04",
+        "product":  "Premium Wireless Mouse",
+        "amount":  83.06
+    },
+    {
+        "transactionId":  "TXN052",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-02",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  162.89
+    },
+    {
+        "transactionId":  "TXN053",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-07-27",
+        "product":  "Screen Cleaning Kit",
+        "amount":  11.89
+    },
+    {
+        "transactionId":  "TXN054",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-05-14",
+        "product":  "Premium Wireless Mouse",
+        "amount":  79.1
+    },
+    {
+        "transactionId":  "TXN055",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-08",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  19.95
+    },
+    {
+        "transactionId":  "TXN056",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-09",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  247.05
+    },
+    {
+        "transactionId":  "TXN057",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-11",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  111.82
+    },
+    {
+        "transactionId":  "TXN058",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-17",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.57
+    },
+    {
+        "transactionId":  "TXN059",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-25",
+        "product":  "HDMI Cable 6ft",
+        "amount":  18.09
+    },
+    {
+        "transactionId":  "TXN060",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-25",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  179.39
+    },
+    {
+        "transactionId":  "TXN061",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-17",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.92
+    },
+    {
+        "transactionId":  "TXN062",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-26",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  192.97
+    },
+    {
+        "transactionId":  "TXN063",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-20",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  11.43
+    },
+    {
+        "transactionId":  "TXN064",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-23",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  64.85
+    },
+    {
+        "transactionId":  "TXN065",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-25",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  77.59
+    },
+    {
+        "transactionId":  "TXN066",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-04",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  17.6
+    },
+    {
+        "transactionId":  "TXN067",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-22",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.4
+    },
+    {
+        "transactionId":  "TXN068",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-05-28",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  162.97
+    },
+    {
+        "transactionId":  "TXN069",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-21",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  133.02
+    },
+    {
+        "transactionId":  "TXN070",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-11",
+        "product":  "Premium Wireless Mouse",
+        "amount":  67.2
+    },
+    {
+        "transactionId":  "TXN071",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-05",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.78
+    },
+    {
+        "transactionId":  "TXN072",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-26",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  77.54
+    },
+    {
+        "transactionId":  "TXN073",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-06",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  231.68
+    },
+    {
+        "transactionId":  "TXN074",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-07-14",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  10.52
+    },
+    {
+        "transactionId":  "TXN075",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-28",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  14.86
+    },
+    {
+        "transactionId":  "TXN076",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-25",
+        "product":  "Extended Mousepad",
+        "amount":  20.47
+    },
+    {
+        "transactionId":  "TXN077",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-16",
+        "product":  "HDMI Cable 6ft",
+        "amount":  18.61
+    },
+    {
+        "transactionId":  "TXN078",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-09",
+        "product":  "Bluetooth Adapter",
+        "amount":  13.21
+    },
+    {
+        "transactionId":  "TXN079",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-23",
+        "product":  "Bluetooth Adapter",
+        "amount":  14.54
+    },
+    {
+        "transactionId":  "TXN080",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-07",
+        "product":  "Screen Cleaning Kit",
+        "amount":  14.75
+    },
+    {
+        "transactionId":  "TXN081",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-11",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  10.79
+    },
+    {
+        "transactionId":  "TXN082",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-13",
+        "product":  "Extended Mousepad",
+        "amount":  26.07
+    },
+    {
+        "transactionId":  "TXN083",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-19",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  153.88
+    },
+    {
+        "transactionId":  "TXN084",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-07",
+        "product":  "HDMI Cable 6ft",
+        "amount":  13.69
+    },
+    {
+        "transactionId":  "TXN085",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-23",
+        "product":  "Extended Mousepad",
+        "amount":  15.42
+    },
+    {
+        "transactionId":  "TXN086",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-16",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  14.15
+    },
+    {
+        "transactionId":  "TXN087",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-30",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  214.4
+    },
+    {
+        "transactionId":  "TXN088",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-06-27",
+        "product":  "Screen Cleaning Kit",
+        "amount":  16.63
+    },
+    {
+        "transactionId":  "TXN089",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-23",
+        "product":  "HDMI Cable 6ft",
+        "amount":  15.97
+    },
+    {
+        "transactionId":  "TXN090",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-13",
+        "product":  "HDMI Cable 6ft",
+        "amount":  17.99
+    },
+    {
+        "transactionId":  "TXN091",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-05-11",
+        "product":  "1080p Streaming Webcam",
+        "amount":  86.65
+    },
+    {
+        "transactionId":  "TXN092",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-06-16",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  213.72
+    },
+    {
+        "transactionId":  "TXN093",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-07",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  168.21
+    },
+    {
+        "transactionId":  "TXN094",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-02",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  140.39
+    },
+    {
+        "transactionId":  "TXN095",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-18",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  224.88
+    },
+    {
+        "transactionId":  "TXN096",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-25",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  55.25
+    },
+    {
+        "transactionId":  "TXN097",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-05-30",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  173.56
+    },
+    {
+        "transactionId":  "TXN098",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-21",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  176.11
+    },
+    {
+        "transactionId":  "TXN099",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-30",
+        "product":  "Bluetooth Adapter",
+        "amount":  19.21
+    },
+    {
+        "transactionId":  "TXN100",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-13",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  17.45
+    },
+    {
+        "transactionId":  "TXN101",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-10",
+        "product":  "Extended Mousepad",
+        "amount":  27.69
+    },
+    {
+        "transactionId":  "TXN102",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-07-08",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  15.76
+    },
+    {
+        "transactionId":  "TXN103",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-31",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  185.9
+    },
+    {
+        "transactionId":  "TXN104",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-12",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  196.55
+    },
+    {
+        "transactionId":  "TXN105",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-02",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  67.48
+    },
+    {
+        "transactionId":  "TXN106",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-07-14",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  147.03
+    },
+    {
+        "transactionId":  "TXN107",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-22",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  123.36
+    },
+    {
+        "transactionId":  "TXN108",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-06-16",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  12.45
+    },
+    {
+        "transactionId":  "TXN109",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-15",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  83.47
+    },
+    {
+        "transactionId":  "TXN110",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-29",
+        "product":  "Premium Wireless Mouse",
+        "amount":  52.88
+    },
+    {
+        "transactionId":  "TXN111",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-01",
+        "product":  "HDMI Cable 6ft",
+        "amount":  17.65
+    },
+    {
+        "transactionId":  "TXN112",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-05",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.96
+    },
+    {
+        "transactionId":  "TXN113",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-05-12",
+        "product":  "Bluetooth Adapter",
+        "amount":  21.26
+    },
+    {
+        "transactionId":  "TXN114",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-14",
+        "product":  "HDMI Cable 6ft",
+        "amount":  12.44
+    },
+    {
+        "transactionId":  "TXN115",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-26",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  23.98
+    },
+    {
+        "transactionId":  "TXN116",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-05-26",
+        "product":  "HDMI Cable 6ft",
+        "amount":  17.58
+    },
+    {
+        "transactionId":  "TXN117",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-12",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  62.94
+    },
+    {
+        "transactionId":  "TXN118",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-13",
+        "product":  "1080p Streaming Webcam",
+        "amount":  85.57
+    },
+    {
+        "transactionId":  "TXN119",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-06-28",
+        "product":  "HDMI Cable 6ft",
+        "amount":  16.21
+    },
+    {
+        "transactionId":  "TXN120",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-21",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  156.58
+    },
+    {
+        "transactionId":  "TXN121",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-06-23",
+        "product":  "Bluetooth Adapter",
+        "amount":  14.19
+    },
+    {
+        "transactionId":  "TXN122",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-04",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  24.09
+    },
+    {
+        "transactionId":  "TXN123",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-12",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.45
+    },
+    {
+        "transactionId":  "TXN124",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-25",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  15.67
+    },
+    {
+        "transactionId":  "TXN125",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-11",
+        "product":  "Extended Mousepad",
+        "amount":  20.3
+    },
+    {
+        "transactionId":  "TXN126",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-08",
+        "product":  "Bluetooth Adapter",
+        "amount":  14.03
+    },
+    {
+        "transactionId":  "TXN127",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-06-21",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  200.09
+    },
+    {
+        "transactionId":  "TXN128",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-18",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.29
+    },
+    {
+        "transactionId":  "TXN129",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-05-06",
+        "product":  "Screen Cleaning Kit",
+        "amount":  10.14
+    },
+    {
+        "transactionId":  "TXN130",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-12",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  56.18
+    },
+    {
+        "transactionId":  "TXN131",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-12",
+        "product":  "Screen Cleaning Kit",
+        "amount":  16.12
+    },
+    {
+        "transactionId":  "TXN132",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-31",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.01
+    },
+    {
+        "transactionId":  "TXN133",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-14",
+        "product":  "HDMI Cable 6ft",
+        "amount":  13.25
+    },
+    {
+        "transactionId":  "TXN134",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-12",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  110.86
+    },
+    {
+        "transactionId":  "TXN135",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-17",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  116.37
+    },
+    {
+        "transactionId":  "TXN136",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-25",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  121.1
+    },
+    {
+        "transactionId":  "TXN137",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-09",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  160.2
+    },
+    {
+        "transactionId":  "TXN138",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-27",
+        "product":  "HDMI Cable 6ft",
+        "amount":  14.61
+    },
+    {
+        "transactionId":  "TXN139",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-09",
+        "product":  "Bluetooth Adapter",
+        "amount":  18.8
+    },
+    {
+        "transactionId":  "TXN140",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-16",
+        "product":  "Bluetooth Adapter",
+        "amount":  22.9
+    },
+    {
+        "transactionId":  "TXN141",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-24",
+        "product":  "Extended Mousepad",
+        "amount":  17.13
+    },
+    {
+        "transactionId":  "TXN142",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-06",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  112.2
+    },
+    {
+        "transactionId":  "TXN143",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-02",
+        "product":  "Screen Cleaning Kit",
+        "amount":  18.01
+    },
+    {
+        "transactionId":  "TXN144",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-06-05",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.18
+    },
+    {
+        "transactionId":  "TXN145",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-22",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  59.07
+    },
+    {
+        "transactionId":  "TXN146",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-10",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  130.93
+    },
+    {
+        "transactionId":  "TXN147",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-27",
+        "product":  "HDMI Cable 6ft",
+        "amount":  11.7
+    },
+    {
+        "transactionId":  "TXN148",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-24",
+        "product":  "Screen Cleaning Kit",
+        "amount":  19.02
+    },
+    {
+        "transactionId":  "TXN149",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-25",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  12.6
+    },
+    {
+        "transactionId":  "TXN150",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-28",
+        "product":  "Premium Wireless Mouse",
+        "amount":  86.35
+    },
+    {
+        "transactionId":  "TXN151",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-07",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  64.68
+    },
+    {
+        "transactionId":  "TXN152",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-18",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  10.04
+    },
+    {
+        "transactionId":  "TXN153",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-27",
+        "product":  "Extended Mousepad",
+        "amount":  17.57
+    },
+    {
+        "transactionId":  "TXN154",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-01",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  14.21
+    },
+    {
+        "transactionId":  "TXN155",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-29",
+        "product":  "HDMI Cable 6ft",
+        "amount":  10.46
+    },
+    {
+        "transactionId":  "TXN156",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-11",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  11.76
+    },
+    {
+        "transactionId":  "TXN157",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-28",
+        "product":  "1080p Streaming Webcam",
+        "amount":  80.3
+    },
+    {
+        "transactionId":  "TXN158",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-28",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  116.94
+    },
+    {
+        "transactionId":  "TXN159",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-06",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  78.42
+    },
+    {
+        "transactionId":  "TXN160",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-31",
+        "product":  "1080p Streaming Webcam",
+        "amount":  60.95
+    },
+    {
+        "transactionId":  "TXN161",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-11",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  76.42
+    },
+    {
+        "transactionId":  "TXN162",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-31",
+        "product":  "1080p Streaming Webcam",
+        "amount":  63.13
+    },
+    {
+        "transactionId":  "TXN163",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-06-15",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  19.31
+    },
+    {
+        "transactionId":  "TXN164",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-14",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.08
+    },
+    {
+        "transactionId":  "TXN165",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-17",
+        "product":  "Screen Cleaning Kit",
+        "amount":  12.58
+    },
+    {
+        "transactionId":  "TXN166",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-05",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.48
+    },
+    {
+        "transactionId":  "TXN167",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-11",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  66.2
+    },
+    {
+        "transactionId":  "TXN168",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-16",
+        "product":  "1080p Streaming Webcam",
+        "amount":  79.14
+    },
+    {
+        "transactionId":  "TXN169",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-07",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  168.22
+    },
+    {
+        "transactionId":  "TXN170",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-24",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  126.95
+    },
+    {
+        "transactionId":  "TXN171",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-05-06",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.68
+    },
+    {
+        "transactionId":  "TXN172",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-27",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  146.3
+    },
+    {
+        "transactionId":  "TXN173",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-29",
+        "product":  "Screen Cleaning Kit",
+        "amount":  14.13
+    },
+    {
+        "transactionId":  "TXN174",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-22",
+        "product":  "Extended Mousepad",
+        "amount":  27.1
+    },
+    {
+        "transactionId":  "TXN175",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-30",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  170.04
+    },
+    {
+        "transactionId":  "TXN176",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-21",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  159.25
+    },
+    {
+        "transactionId":  "TXN177",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-20",
+        "product":  "1080p Streaming Webcam",
+        "amount":  77.22
+    },
+    {
+        "transactionId":  "TXN178",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-10",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  239.45
+    },
+    {
+        "transactionId":  "TXN179",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-01",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  136.65
+    },
+    {
+        "transactionId":  "TXN180",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-04",
+        "product":  "Premium Wireless Mouse",
+        "amount":  55.04
+    },
+    {
+        "transactionId":  "TXN181",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-01",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.2
+    },
+    {
+        "transactionId":  "TXN182",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-18",
+        "product":  "HDMI Cable 6ft",
+        "amount":  10.76
+    },
+    {
+        "transactionId":  "TXN183",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-29",
+        "product":  "Screen Cleaning Kit",
+        "amount":  11.2
+    },
+    {
+        "transactionId":  "TXN184",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-23",
+        "product":  "Screen Cleaning Kit",
+        "amount":  17.98
+    },
+    {
+        "transactionId":  "TXN185",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-05-21",
+        "product":  "1080p Streaming Webcam",
+        "amount":  89.36
+    },
+    {
+        "transactionId":  "TXN186",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-16",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  139.31
+    },
+    {
+        "transactionId":  "TXN187",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-09",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  14.22
+    },
+    {
+        "transactionId":  "TXN188",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-07-22",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  10.93
+    },
+    {
+        "transactionId":  "TXN189",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-08",
+        "product":  "HDMI Cable 6ft",
+        "amount":  16.03
+    },
+    {
+        "transactionId":  "TXN190",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-25",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  170.4
+    },
+    {
+        "transactionId":  "TXN191",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-15",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  18.89
+    },
+    {
+        "transactionId":  "TXN192",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-09",
+        "product":  "Extended Mousepad",
+        "amount":  24.26
+    },
+    {
+        "transactionId":  "TXN193",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-27",
+        "product":  "HDMI Cable 6ft",
+        "amount":  12.12
+    },
+    {
+        "transactionId":  "TXN194",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-15",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  210.16
+    },
+    {
+        "transactionId":  "TXN195",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-25",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.07
+    },
+    {
+        "transactionId":  "TXN196",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-13",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  14.52
+    },
+    {
+        "transactionId":  "TXN197",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-06-08",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  163.1
+    },
+    {
+        "transactionId":  "TXN198",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-29",
+        "product":  "HDMI Cable 6ft",
+        "amount":  18.34
+    },
+    {
+        "transactionId":  "TXN199",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-05-27",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  14.55
+    },
+    {
+        "transactionId":  "TXN200",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-20",
+        "product":  "Bluetooth Adapter",
+        "amount":  15.71
+    },
+    {
+        "transactionId":  "TXN201",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-07-15",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  22.49
+    },
+    {
+        "transactionId":  "TXN202",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-06-03",
+        "product":  "HDMI Cable 6ft",
+        "amount":  18.61
+    },
+    {
+        "transactionId":  "TXN203",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-05-06",
+        "product":  "Screen Cleaning Kit",
+        "amount":  11.87
+    },
+    {
+        "transactionId":  "TXN204",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-11",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  59.15
+    },
+    {
+        "transactionId":  "TXN205",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-06-17",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  24.75
+    },
+    {
+        "transactionId":  "TXN206",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-24",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  14.81
+    },
+    {
+        "transactionId":  "TXN207",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-29",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  17.83
+    },
+    {
+        "transactionId":  "TXN208",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-06-10",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  63.14
+    },
+    {
+        "transactionId":  "TXN209",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-17",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  19.08
+    },
+    {
+        "transactionId":  "TXN210",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-11",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.55
+    },
+    {
+        "transactionId":  "TXN211",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-03",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.97
+    },
+    {
+        "transactionId":  "TXN212",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-07-18",
+        "product":  "Premium Wireless Mouse",
+        "amount":  63.74
+    },
+    {
+        "transactionId":  "TXN213",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-05",
+        "product":  "HDMI Cable 6ft",
+        "amount":  15.36
+    },
+    {
+        "transactionId":  "TXN214",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-25",
+        "product":  "1080p Streaming Webcam",
+        "amount":  68.58
+    },
+    {
+        "transactionId":  "TXN215",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-29",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  68.63
+    },
+    {
+        "transactionId":  "TXN216",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-24",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  21.75
+    },
+    {
+        "transactionId":  "TXN217",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-07-28",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  245.77
+    },
+    {
+        "transactionId":  "TXN218",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-05-11",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  223.68
+    },
+    {
+        "transactionId":  "TXN219",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-06-06",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  211.8
+    },
+    {
+        "transactionId":  "TXN220",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-30",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  20.84
+    },
+    {
+        "transactionId":  "TXN221",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-01",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  11.04
+    },
+    {
+        "transactionId":  "TXN222",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-25",
+        "product":  "Premium Wireless Mouse",
+        "amount":  68.9
+    },
+    {
+        "transactionId":  "TXN223",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-08",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.33
+    },
+    {
+        "transactionId":  "TXN224",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-13",
+        "product":  "Bluetooth Adapter",
+        "amount":  11.42
+    },
+    {
+        "transactionId":  "TXN225",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-24",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  50.56
+    },
+    {
+        "transactionId":  "TXN226",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-29",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  248.15
+    },
+    {
+        "transactionId":  "TXN227",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-02",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  114.82
+    },
+    {
+        "transactionId":  "TXN228",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-13",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  16.01
+    },
+    {
+        "transactionId":  "TXN229",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-26",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  145.74
+    },
+    {
+        "transactionId":  "TXN230",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-03",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  21.66
+    },
+    {
+        "transactionId":  "TXN231",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-12",
+        "product":  "Premium Wireless Mouse",
+        "amount":  66.8
+    },
+    {
+        "transactionId":  "TXN232",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-03",
+        "product":  "Screen Cleaning Kit",
+        "amount":  14.87
+    },
+    {
+        "transactionId":  "TXN233",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-05-23",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  131.08
+    },
+    {
+        "transactionId":  "TXN234",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-21",
+        "product":  "HDMI Cable 6ft",
+        "amount":  13.94
+    },
+    {
+        "transactionId":  "TXN235",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-08",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  123.59
+    },
+    {
+        "transactionId":  "TXN236",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-23",
+        "product":  "Extended Mousepad",
+        "amount":  25.82
+    },
+    {
+        "transactionId":  "TXN237",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-09",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  63.33
+    },
+    {
+        "transactionId":  "TXN238",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-07",
+        "product":  "Screen Cleaning Kit",
+        "amount":  19.84
+    },
+    {
+        "transactionId":  "TXN239",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-17",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  236.1
+    },
+    {
+        "transactionId":  "TXN240",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-20",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  22.87
+    },
+    {
+        "transactionId":  "TXN241",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-06",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.51
+    },
+    {
+        "transactionId":  "TXN242",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-05",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  189.72
+    },
+    {
+        "transactionId":  "TXN243",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-02",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  18.85
+    },
+    {
+        "transactionId":  "TXN244",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-21",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  63.48
+    },
+    {
+        "transactionId":  "TXN245",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-06-02",
+        "product":  "HDMI Cable 6ft",
+        "amount":  13.65
+    },
+    {
+        "transactionId":  "TXN246",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-22",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  166.78
+    },
+    {
+        "transactionId":  "TXN247",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-19",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  124.64
+    },
+    {
+        "transactionId":  "TXN248",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-07-20",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  145.13
+    },
+    {
+        "transactionId":  "TXN249",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-06",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.63
+    },
+    {
+        "transactionId":  "TXN250",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-01",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  163.35
+    },
+    {
+        "transactionId":  "TXN251",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-18",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  54.48
+    },
+    {
+        "transactionId":  "TXN252",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-07",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  14.63
+    },
+    {
+        "transactionId":  "TXN253",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-07-23",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  157.49
+    },
+    {
+        "transactionId":  "TXN254",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-05-31",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  162.66
+    },
+    {
+        "transactionId":  "TXN255",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-11",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  79.11
+    },
+    {
+        "transactionId":  "TXN256",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-31",
+        "product":  "1080p Streaming Webcam",
+        "amount":  91.07
+    },
+    {
+        "transactionId":  "TXN257",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-09",
+        "product":  "1080p Streaming Webcam",
+        "amount":  67.87
+    },
+    {
+        "transactionId":  "TXN258",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-27",
+        "product":  "Extended Mousepad",
+        "amount":  27.68
+    },
+    {
+        "transactionId":  "TXN259",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-07-21",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.18
+    },
+    {
+        "transactionId":  "TXN260",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-05-28",
+        "product":  "Premium Wireless Mouse",
+        "amount":  51.08
+    },
+    {
+        "transactionId":  "TXN261",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-03",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.32
+    },
+    {
+        "transactionId":  "TXN262",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-17",
+        "product":  "1080p Streaming Webcam",
+        "amount":  83.63
+    },
+    {
+        "transactionId":  "TXN263",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-01",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  80.27
+    },
+    {
+        "transactionId":  "TXN264",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-15",
+        "product":  "Screen Cleaning Kit",
+        "amount":  19.66
+    },
+    {
+        "transactionId":  "TXN265",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-04",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  236.77
+    },
+    {
+        "transactionId":  "TXN266",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-13",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  122.68
+    },
+    {
+        "transactionId":  "TXN267",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-12",
+        "product":  "1080p Streaming Webcam",
+        "amount":  90.97
+    },
+    {
+        "transactionId":  "TXN268",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-17",
+        "product":  "1080p Streaming Webcam",
+        "amount":  77.35
+    },
+    {
+        "transactionId":  "TXN269",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-02",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  138.57
+    },
+    {
+        "transactionId":  "TXN270",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-29",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  172.83
+    },
+    {
+        "transactionId":  "TXN271",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-15",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  160.8
+    },
+    {
+        "transactionId":  "TXN272",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-20",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  14.09
+    },
+    {
+        "transactionId":  "TXN273",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-07",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  20.85
+    },
+    {
+        "transactionId":  "TXN274",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-01",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  50.64
+    },
+    {
+        "transactionId":  "TXN275",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-16",
+        "product":  "Premium Wireless Mouse",
+        "amount":  66.16
+    },
+    {
+        "transactionId":  "TXN276",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-06",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  182.62
+    },
+    {
+        "transactionId":  "TXN277",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-03",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  169.71
+    },
+    {
+        "transactionId":  "TXN278",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-14",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  14.23
+    },
+    {
+        "transactionId":  "TXN279",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-21",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  162.42
+    },
+    {
+        "transactionId":  "TXN280",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-24",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  168.66
+    },
+    {
+        "transactionId":  "TXN281",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-05-07",
+        "product":  "Bluetooth Adapter",
+        "amount":  17.03
+    },
+    {
+        "transactionId":  "TXN282",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-14",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  144.11
+    },
+    {
+        "transactionId":  "TXN283",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-05-22",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.33
+    },
+    {
+        "transactionId":  "TXN284",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-05",
+        "product":  "1080p Streaming Webcam",
+        "amount":  77.27
+    },
+    {
+        "transactionId":  "TXN285",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-07-28",
+        "product":  "Extended Mousepad",
+        "amount":  22.05
+    },
+    {
+        "transactionId":  "TXN286",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-07",
+        "product":  "Extended Mousepad",
+        "amount":  29.42
+    },
+    {
+        "transactionId":  "TXN287",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-18",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  143.41
+    },
+    {
+        "transactionId":  "TXN288",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-14",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.62
+    },
+    {
+        "transactionId":  "TXN289",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-06-15",
+        "product":  "HDMI Cable 6ft",
+        "amount":  16.61
+    },
+    {
+        "transactionId":  "TXN290",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-06-06",
+        "product":  "Screen Cleaning Kit",
+        "amount":  13.99
+    },
+    {
+        "transactionId":  "TXN291",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-05-24",
+        "product":  "HDMI Cable 6ft",
+        "amount":  13.21
+    },
+    {
+        "transactionId":  "TXN292",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-04",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  163.42
+    },
+    {
+        "transactionId":  "TXN293",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-14",
+        "product":  "1080p Streaming Webcam",
+        "amount":  77.75
+    },
+    {
+        "transactionId":  "TXN294",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-11",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  167.48
+    },
+    {
+        "transactionId":  "TXN295",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-08",
+        "product":  "Screen Cleaning Kit",
+        "amount":  11.06
+    },
+    {
+        "transactionId":  "TXN296",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-18",
+        "product":  "Bluetooth Adapter",
+        "amount":  23.2
+    },
+    {
+        "transactionId":  "TXN297",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-22",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  198.51
+    },
+    {
+        "transactionId":  "TXN298",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-25",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  187
+    },
+    {
+        "transactionId":  "TXN299",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-15",
+        "product":  "Extended Mousepad",
+        "amount":  13.61
+    },
+    {
+        "transactionId":  "TXN300",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-06-27",
+        "product":  "Premium Wireless Mouse",
+        "amount":  58.63
+    },
+    {
+        "transactionId":  "TXN301",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-05-21",
+        "product":  "HDMI Cable 6ft",
+        "amount":  14
+    },
+    {
+        "transactionId":  "TXN302",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-02",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  13
+    },
+    {
+        "transactionId":  "TXN303",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-12",
+        "product":  "Extended Mousepad",
+        "amount":  31.4
+    },
+    {
+        "transactionId":  "TXN304",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-06",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  172.32
+    },
+    {
+        "transactionId":  "TXN305",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-11",
+        "product":  "Bluetooth Adapter",
+        "amount":  10.17
+    },
+    {
+        "transactionId":  "TXN306",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-05-22",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.23
+    },
+    {
+        "transactionId":  "TXN307",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-05-25",
+        "product":  "1080p Streaming Webcam",
+        "amount":  94.2
+    },
+    {
+        "transactionId":  "TXN308",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-27",
+        "product":  "Bluetooth Adapter",
+        "amount":  11.04
+    },
+    {
+        "transactionId":  "TXN309",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-07-06",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  59.2
+    },
+    {
+        "transactionId":  "TXN310",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-05-22",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.25
+    },
+    {
+        "transactionId":  "TXN311",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-06-06",
+        "product":  "Bluetooth Adapter",
+        "amount":  16.07
+    },
+    {
+        "transactionId":  "TXN312",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-14",
+        "product":  "Screen Cleaning Kit",
+        "amount":  15.82
+    },
+    {
+        "transactionId":  "TXN313",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-07-12",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.5
+    },
+    {
+        "transactionId":  "TXN314",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-18",
+        "product":  "Extended Mousepad",
+        "amount":  34.16
+    },
+    {
+        "transactionId":  "TXN315",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-25",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  241.17
+    },
+    {
+        "transactionId":  "TXN316",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-24",
+        "product":  "Extended Mousepad",
+        "amount":  34.81
+    },
+    {
+        "transactionId":  "TXN317",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-13",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  129.15
+    },
+    {
+        "transactionId":  "TXN318",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-06-14",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  22.71
+    },
+    {
+        "transactionId":  "TXN319",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-05-10",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  23.9
+    },
+    {
+        "transactionId":  "TXN320",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-05",
+        "product":  "Bluetooth Adapter",
+        "amount":  20.66
+    },
+    {
+        "transactionId":  "TXN321",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-19",
+        "product":  "Screen Cleaning Kit",
+        "amount":  16.77
+    },
+    {
+        "transactionId":  "TXN322",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-20",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.2
+    },
+    {
+        "transactionId":  "TXN323",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-15",
+        "product":  "Screen Cleaning Kit",
+        "amount":  14.2
+    },
+    {
+        "transactionId":  "TXN324",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-25",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  176.23
+    },
+    {
+        "transactionId":  "TXN325",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-23",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.4
+    },
+    {
+        "transactionId":  "TXN326",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-05-23",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.05
+    },
+    {
+        "transactionId":  "TXN327",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-27",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  24.51
+    },
+    {
+        "transactionId":  "TXN328",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-19",
+        "product":  "HDMI Cable 6ft",
+        "amount":  17.15
+    },
+    {
+        "transactionId":  "TXN329",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-07",
+        "product":  "Extended Mousepad",
+        "amount":  33
+    },
+    {
+        "transactionId":  "TXN330",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-04",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  15.39
+    },
+    {
+        "transactionId":  "TXN331",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-30",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  213.67
+    },
+    {
+        "transactionId":  "TXN332",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-03",
+        "product":  "Bluetooth Adapter",
+        "amount":  22.58
+    },
+    {
+        "transactionId":  "TXN333",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-27",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  24.69
+    },
+    {
+        "transactionId":  "TXN334",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-07-19",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  10.71
+    },
+    {
+        "transactionId":  "TXN335",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-30",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  132.09
+    },
+    {
+        "transactionId":  "TXN336",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-01",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  156.63
+    },
+    {
+        "transactionId":  "TXN337",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-08",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  71
+    },
+    {
+        "transactionId":  "TXN338",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-06-18",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  73.61
+    },
+    {
+        "transactionId":  "TXN339",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-06-18",
+        "product":  "Extended Mousepad",
+        "amount":  34.04
+    },
+    {
+        "transactionId":  "TXN340",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-06-25",
+        "product":  "Bluetooth Adapter",
+        "amount":  12.56
+    },
+    {
+        "transactionId":  "TXN341",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-24",
+        "product":  "Extended Mousepad",
+        "amount":  31.69
+    },
+    {
+        "transactionId":  "TXN342",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-05-25",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  149.34
+    },
+    {
+        "transactionId":  "TXN343",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-04",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  176.34
+    },
+    {
+        "transactionId":  "TXN344",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-07-12",
+        "product":  "Screen Cleaning Kit",
+        "amount":  14.39
+    },
+    {
+        "transactionId":  "TXN345",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-16",
+        "product":  "Extended Mousepad",
+        "amount":  12.71
+    },
+    {
+        "transactionId":  "TXN346",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-10",
+        "product":  "Extended Mousepad",
+        "amount":  18.87
+    },
+    {
+        "transactionId":  "TXN347",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-07-08",
+        "product":  "Premium Wireless Mouse",
+        "amount":  56.44
+    },
+    {
+        "transactionId":  "TXN348",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-02",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  155.49
+    },
+    {
+        "transactionId":  "TXN349",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-19",
+        "product":  "Extended Mousepad",
+        "amount":  18.15
+    },
+    {
+        "transactionId":  "TXN350",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-14",
+        "product":  "Screen Cleaning Kit",
+        "amount":  17.29
+    },
+    {
+        "transactionId":  "TXN351",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-08",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.74
+    },
+    {
+        "transactionId":  "TXN352",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-21",
+        "product":  "Premium Wireless Mouse",
+        "amount":  84.18
+    },
+    {
+        "transactionId":  "TXN353",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-10",
+        "product":  "Extended Mousepad",
+        "amount":  29.75
+    },
+    {
+        "transactionId":  "TXN354",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-15",
+        "product":  "Premium Wireless Mouse",
+        "amount":  61.68
+    },
+    {
+        "transactionId":  "TXN355",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-15",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.99
+    },
+    {
+        "transactionId":  "TXN356",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-06-05",
+        "product":  "Premium Wireless Mouse",
+        "amount":  50.61
+    },
+    {
+        "transactionId":  "TXN357",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-06-04",
+        "product":  "1080p Streaming Webcam",
+        "amount":  93.88
+    },
+    {
+        "transactionId":  "TXN358",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-12",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  52.32
+    },
+    {
+        "transactionId":  "TXN359",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-05-11",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  229.71
+    },
+    {
+        "transactionId":  "TXN360",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-11",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  22.56
+    },
+    {
+        "transactionId":  "TXN361",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-04",
+        "product":  "1080p Streaming Webcam",
+        "amount":  72.19
+    },
+    {
+        "transactionId":  "TXN362",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-20",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  135.02
+    },
+    {
+        "transactionId":  "TXN363",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-06-15",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  142.03
+    },
+    {
+        "transactionId":  "TXN364",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-06-29",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  14.43
+    },
+    {
+        "transactionId":  "TXN365",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-25",
+        "product":  "Extended Mousepad",
+        "amount":  11.38
+    },
+    {
+        "transactionId":  "TXN366",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-04",
+        "product":  "Extended Mousepad",
+        "amount":  28.14
+    },
+    {
+        "transactionId":  "TXN367",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-07-27",
+        "product":  "Premium Wireless Mouse",
+        "amount":  75.66
+    },
+    {
+        "transactionId":  "TXN368",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-05",
+        "product":  "Bluetooth Adapter",
+        "amount":  11.78
+    },
+    {
+        "transactionId":  "TXN369",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-07",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  52.61
+    },
+    {
+        "transactionId":  "TXN370",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-07",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  121.09
+    },
+    {
+        "transactionId":  "TXN371",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-20",
+        "product":  "Screen Cleaning Kit",
+        "amount":  12.39
+    },
+    {
+        "transactionId":  "TXN372",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-07-26",
+        "product":  "Bluetooth Adapter",
+        "amount":  22.42
+    },
+    {
+        "transactionId":  "TXN373",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-05-26",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  193.28
+    },
+    {
+        "transactionId":  "TXN374",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-06-23",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  80.11
+    },
+    {
+        "transactionId":  "TXN375",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-28",
+        "product":  "Premium Wireless Mouse",
+        "amount":  63.67
+    },
+    {
+        "transactionId":  "TXN376",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-15",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  80.86
+    },
+    {
+        "transactionId":  "TXN377",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-30",
+        "product":  "HDMI Cable 6ft",
+        "amount":  15.1
+    },
+    {
+        "transactionId":  "TXN378",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-11",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  19.97
+    },
+    {
+        "transactionId":  "TXN379",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-06-23",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  78.19
+    },
+    {
+        "transactionId":  "TXN380",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-02",
+        "product":  "1080p Streaming Webcam",
+        "amount":  93.81
+    },
+    {
+        "transactionId":  "TXN381",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-06-18",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  21.47
+    },
+    {
+        "transactionId":  "TXN382",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-19",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  62.76
+    },
+    {
+        "transactionId":  "TXN383",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-13",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  16.39
+    },
+    {
+        "transactionId":  "TXN384",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-13",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  160.7
+    },
+    {
+        "transactionId":  "TXN385",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-01",
+        "product":  "Extended Mousepad",
+        "amount":  10.03
+    },
+    {
+        "transactionId":  "TXN386",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-27",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  199.43
+    },
+    {
+        "transactionId":  "TXN387",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-09",
+        "product":  "Premium Wireless Mouse",
+        "amount":  87.42
+    },
+    {
+        "transactionId":  "TXN388",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-16",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.67
+    },
+    {
+        "transactionId":  "TXN389",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-31",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  67.2
+    },
+    {
+        "transactionId":  "TXN390",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-07-26",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  172.89
+    },
+    {
+        "transactionId":  "TXN391",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-09",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  176.27
+    },
+    {
+        "transactionId":  "TXN392",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-31",
+        "product":  "HDMI Cable 6ft",
+        "amount":  11.68
+    },
+    {
+        "transactionId":  "TXN393",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-05-17",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  13.05
+    },
+    {
+        "transactionId":  "TXN394",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-05",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  168.29
+    },
+    {
+        "transactionId":  "TXN395",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-02",
+        "product":  "Extended Mousepad",
+        "amount":  17.65
+    },
+    {
+        "transactionId":  "TXN396",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-27",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  131.46
+    },
+    {
+        "transactionId":  "TXN397",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-07-31",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  51.3
+    },
+    {
+        "transactionId":  "TXN398",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-07-28",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  237.82
+    },
+    {
+        "transactionId":  "TXN399",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-02",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  143.54
+    },
+    {
+        "transactionId":  "TXN400",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-21",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  150.72
+    },
+    {
+        "transactionId":  "TXN401",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-01",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.3
+    },
+    {
+        "transactionId":  "TXN402",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-05-27",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  114.08
+    },
+    {
+        "transactionId":  "TXN403",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-02",
+        "product":  "Screen Cleaning Kit",
+        "amount":  17.8
+    },
+    {
+        "transactionId":  "TXN404",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-07-12",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  10.69
+    },
+    {
+        "transactionId":  "TXN405",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-08",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  152.45
+    },
+    {
+        "transactionId":  "TXN406",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-05-31",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  185.75
+    },
+    {
+        "transactionId":  "TXN407",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-05",
+        "product":  "Bluetooth Adapter",
+        "amount":  21.39
+    },
+    {
+        "transactionId":  "TXN408",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-09",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  18.93
+    },
+    {
+        "transactionId":  "TXN409",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-29",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  170.47
+    },
+    {
+        "transactionId":  "TXN410",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-16",
+        "product":  "HDMI Cable 6ft",
+        "amount":  18.39
+    },
+    {
+        "transactionId":  "TXN411",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-25",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  136.04
+    },
+    {
+        "transactionId":  "TXN412",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-22",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  14.26
+    },
+    {
+        "transactionId":  "TXN413",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-09",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  160.92
+    },
+    {
+        "transactionId":  "TXN414",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-18",
+        "product":  "1080p Streaming Webcam",
+        "amount":  84.55
+    },
+    {
+        "transactionId":  "TXN415",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-06-11",
+        "product":  "HDMI Cable 6ft",
+        "amount":  17.72
+    },
+    {
+        "transactionId":  "TXN416",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-08",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  127.99
+    },
+    {
+        "transactionId":  "TXN417",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-07-15",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.87
+    },
+    {
+        "transactionId":  "TXN418",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-07",
+        "product":  "Extended Mousepad",
+        "amount":  24.67
+    },
+    {
+        "transactionId":  "TXN419",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-05-26",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  163.58
+    },
+    {
+        "transactionId":  "TXN420",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-18",
+        "product":  "Screen Cleaning Kit",
+        "amount":  16.69
+    },
+    {
+        "transactionId":  "TXN421",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-07-21",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  149.54
+    },
+    {
+        "transactionId":  "TXN422",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-06-05",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  12.3
+    },
+    {
+        "transactionId":  "TXN423",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-05",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  182.85
+    },
+    {
+        "transactionId":  "TXN424",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-07-31",
+        "product":  "Screen Cleaning Kit",
+        "amount":  19.69
+    },
+    {
+        "transactionId":  "TXN425",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-05-15",
+        "product":  "Screen Cleaning Kit",
+        "amount":  16.37
+    },
+    {
+        "transactionId":  "TXN426",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-08",
+        "product":  "Screen Cleaning Kit",
+        "amount":  12.5
+    },
+    {
+        "transactionId":  "TXN427",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-30",
+        "product":  "HDMI Cable 6ft",
+        "amount":  14.37
+    },
+    {
+        "transactionId":  "TXN428",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-27",
+        "product":  "Extended Mousepad",
+        "amount":  28.83
+    },
+    {
+        "transactionId":  "TXN429",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-08",
+        "product":  "HDMI Cable 6ft",
+        "amount":  11.62
+    },
+    {
+        "transactionId":  "TXN430",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-09",
+        "product":  "1080p Streaming Webcam",
+        "amount":  77.09
+    },
+    {
+        "transactionId":  "TXN431",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-10",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  10.73
+    },
+    {
+        "transactionId":  "TXN432",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-20",
+        "product":  "Screen Cleaning Kit",
+        "amount":  14.18
+    },
+    {
+        "transactionId":  "TXN433",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-05",
+        "product":  "Extended Mousepad",
+        "amount":  27
+    },
+    {
+        "transactionId":  "TXN434",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-07-15",
+        "product":  "1080p Streaming Webcam",
+        "amount":  74.62
+    },
+    {
+        "transactionId":  "TXN435",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-05-06",
+        "product":  "Premium Wireless Mouse",
+        "amount":  94.14
+    },
+    {
+        "transactionId":  "TXN436",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-26",
+        "product":  "HDMI Cable 6ft",
+        "amount":  17.72
+    },
+    {
+        "transactionId":  "TXN437",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-20",
+        "product":  "Screen Cleaning Kit",
+        "amount":  12.48
+    },
+    {
+        "transactionId":  "TXN438",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-06-23",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  19.24
+    },
+    {
+        "transactionId":  "TXN439",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-21",
+        "product":  "Extended Mousepad",
+        "amount":  14.2
+    },
+    {
+        "transactionId":  "TXN440",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-06-30",
+        "product":  "HDMI Cable 6ft",
+        "amount":  10.49
+    },
+    {
+        "transactionId":  "TXN441",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-05-25",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  132.26
+    },
+    {
+        "transactionId":  "TXN442",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-06-01",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  218.22
+    },
+    {
+        "transactionId":  "TXN443",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-24",
+        "product":  "HDMI Cable 6ft",
+        "amount":  16.62
+    },
+    {
+        "transactionId":  "TXN444",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-19",
+        "product":  "HDMI Cable 6ft",
+        "amount":  17.15
+    },
+    {
+        "transactionId":  "TXN445",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-31",
+        "product":  "Premium Wireless Mouse",
+        "amount":  53.19
+    },
+    {
+        "transactionId":  "TXN446",
+        "customerId":  "CUST002",
+        "firstName":  "Bob",
+        "lastName":  "Smith",
+        "date":  "2026-05-19",
+        "product":  "HDMI Cable 6ft",
+        "amount":  18.79
+    },
+    {
+        "transactionId":  "TXN447",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-08",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  153.69
+    },
+    {
+        "transactionId":  "TXN448",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-22",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  169.33
+    },
+    {
+        "transactionId":  "TXN449",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-07-23",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  11.63
+    },
+    {
+        "transactionId":  "TXN450",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-05-20",
+        "product":  "1080p Streaming Webcam",
+        "amount":  65.17
+    },
+    {
+        "transactionId":  "TXN451",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-05-30",
+        "product":  "1080p Streaming Webcam",
+        "amount":  88.16
+    },
+    {
+        "transactionId":  "TXN452",
+        "customerId":  "CUST013",
+        "firstName":  "Michael",
+        "lastName":  "Scott",
+        "date":  "2026-05-01",
+        "product":  "HDMI Cable 6ft",
+        "amount":  10.65
+    },
+    {
+        "transactionId":  "TXN453",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-05",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  60.79
+    },
+    {
+        "transactionId":  "TXN454",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-05-09",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.77
+    },
+    {
+        "transactionId":  "TXN455",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-20",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  180.78
+    },
+    {
+        "transactionId":  "TXN456",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-06-05",
+        "product":  "Extended Mousepad",
+        "amount":  33.81
+    },
+    {
+        "transactionId":  "TXN457",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-15",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  175.91
+    },
+    {
+        "transactionId":  "TXN458",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-06-04",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  151.27
+    },
+    {
+        "transactionId":  "TXN459",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-25",
+        "product":  "Premium Wireless Mouse",
+        "amount":  76.24
+    },
+    {
+        "transactionId":  "TXN460",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-07",
+        "product":  "RGB Mechanical Keyboard",
+        "amount":  165.2
+    },
+    {
+        "transactionId":  "TXN461",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-07",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  207.73
+    },
+    {
+        "transactionId":  "TXN462",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-08",
+        "product":  "Premium Wireless Mouse",
+        "amount":  76.95
+    },
+    {
+        "transactionId":  "TXN463",
+        "customerId":  "CUST018",
+        "firstName":  "Rachel",
+        "lastName":  "Green",
+        "date":  "2026-07-15",
+        "product":  "Screen Cleaning Kit",
+        "amount":  13.65
+    },
+    {
+        "transactionId":  "TXN464",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-10",
+        "product":  "Extended Mousepad",
+        "amount":  34.88
+    },
+    {
+        "transactionId":  "TXN465",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-06-23",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  12.52
+    },
+    {
+        "transactionId":  "TXN466",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-25",
+        "product":  "HDMI Cable 6ft",
+        "amount":  16.59
+    },
+    {
+        "transactionId":  "TXN467",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-05-16",
+        "product":  "Bluetooth Adapter",
+        "amount":  24.61
+    },
+    {
+        "transactionId":  "TXN468",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-07-24",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  122.49
+    },
+    {
+        "transactionId":  "TXN469",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-29",
+        "product":  "1080p Streaming Webcam",
+        "amount":  66.69
+    },
+    {
+        "transactionId":  "TXN470",
+        "customerId":  "CUST008",
+        "firstName":  "Hannah",
+        "lastName":  "Abbott",
+        "date":  "2026-05-30",
+        "product":  "HDMI Cable 6ft",
+        "amount":  19.45
+    },
+    {
+        "transactionId":  "TXN471",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-30",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  15.28
+    },
+    {
+        "transactionId":  "TXN472",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-05-28",
+        "product":  "HDMI Cable 6ft",
+        "amount":  10.86
+    },
+    {
+        "transactionId":  "TXN473",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-28",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.19
+    },
+    {
+        "transactionId":  "TXN474",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-06-20",
+        "product":  "Screen Cleaning Kit",
+        "amount":  18.11
+    },
+    {
+        "transactionId":  "TXN475",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-06-19",
+        "product":  "Bluetooth Adapter",
+        "amount":  19.93
+    },
+    {
+        "transactionId":  "TXN476",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-21",
+        "product":  "Bluetooth Adapter",
+        "amount":  12.48
+    },
+    {
+        "transactionId":  "TXN477",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-09",
+        "product":  "Screen Cleaning Kit",
+        "amount":  17.52
+    },
+    {
+        "transactionId":  "TXN478",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-12",
+        "product":  "Premium Wireless Mouse",
+        "amount":  77.91
+    },
+    {
+        "transactionId":  "TXN479",
+        "customerId":  "CUST004",
+        "firstName":  "Diana",
+        "lastName":  "Prince",
+        "date":  "2026-07-21",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  68.58
+    },
+    {
+        "transactionId":  "TXN480",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-12",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  11.74
+    },
+    {
+        "transactionId":  "TXN481",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-08",
+        "product":  "Extended Mousepad",
+        "amount":  18.05
+    },
+    {
+        "transactionId":  "TXN482",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-05-11",
+        "product":  "Bluetooth Adapter",
+        "amount":  18.6
+    },
+    {
+        "transactionId":  "TXN483",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-07-08",
+        "product":  "HDMI Cable 6ft",
+        "amount":  10.17
+    },
+    {
+        "transactionId":  "TXN484",
+        "customerId":  "CUST003",
+        "firstName":  "Charlie",
+        "lastName":  "Brown",
+        "date":  "2026-05-29",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  148.67
+    },
+    {
+        "transactionId":  "TXN485",
+        "customerId":  "CUST007",
+        "firstName":  "George",
+        "lastName":  "Costanza",
+        "date":  "2026-07-23",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  12.84
+    },
+    {
+        "transactionId":  "TXN486",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-06-30",
+        "product":  "Premium Wireless Mouse",
+        "amount":  70.52
+    },
+    {
+        "transactionId":  "TXN487",
+        "customerId":  "CUST017",
+        "firstName":  "Quincy",
+        "lastName":  "Jones",
+        "date":  "2026-07-12",
+        "product":  "Screen Cleaning Kit",
+        "amount":  12.88
+    },
+    {
+        "transactionId":  "TXN488",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-05-16",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  16.71
+    },
+    {
+        "transactionId":  "TXN489",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-30",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  150.92
+    },
+    {
+        "transactionId":  "TXN490",
+        "customerId":  "CUST005",
+        "firstName":  "Ethan",
+        "lastName":  "Hunt",
+        "date":  "2026-07-09",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  19.84
+    },
+    {
+        "transactionId":  "TXN491",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-06-06",
+        "product":  "Keyboard Wrist Rest",
+        "amount":  16.83
+    },
+    {
+        "transactionId":  "TXN492",
+        "customerId":  "CUST014",
+        "firstName":  "Nina",
+        "lastName":  "Simone",
+        "date":  "2026-07-29",
+        "product":  "Webcam Cover 3-Pack",
+        "amount":  13.4
+    },
+    {
+        "transactionId":  "TXN493",
+        "customerId":  "CUST009",
+        "firstName":  "Ian",
+        "lastName":  "Malcolm",
+        "date":  "2026-05-09",
+        "product":  "Noise-Cancelling Gaming Headset",
+        "amount":  247.25
+    },
+    {
+        "transactionId":  "TXN494",
+        "customerId":  "CUST010",
+        "firstName":  "Julia",
+        "lastName":  "Roberts",
+        "date":  "2026-07-13",
+        "product":  "Multi-port USB-C Docking Station",
+        "amount":  162.16
+    },
+    {
+        "transactionId":  "TXN495",
+        "customerId":  "CUST015",
+        "firstName":  "Oscar",
+        "lastName":  "Martinez",
+        "date":  "2026-05-20",
+        "product":  "Premium Wireless Mouse",
+        "amount":  52.12
+    },
+    {
+        "transactionId":  "TXN496",
+        "customerId":  "CUST001",
+        "firstName":  "Alice",
+        "lastName":  "Johnson",
+        "date":  "2026-05-18",
+        "product":  "Bluetooth Adapter",
+        "amount":  13.43
+    },
+    {
+        "transactionId":  "TXN497",
+        "customerId":  "CUST016",
+        "firstName":  "Pam",
+        "lastName":  "Beesly",
+        "date":  "2026-07-11",
+        "product":  "Cable Organizer Sleeves",
+        "amount":  11.08
+    },
+    {
+        "transactionId":  "TXN498",
+        "customerId":  "CUST006",
+        "firstName":  "Fiona",
+        "lastName":  "Gallagher",
+        "date":  "2026-05-18",
+        "product":  "Premium Wireless Mouse",
+        "amount":  66.84
+    },
+    {
+        "transactionId":  "TXN499",
+        "customerId":  "CUST012",
+        "firstName":  "Luna",
+        "lastName":  "Lovegood",
+        "date":  "2026-07-23",
+        "product":  "Premium Laptop Sleeve",
+        "amount":  73.29
+    },
+    {
+        "transactionId":  "TXN500",
+        "customerId":  "CUST011",
+        "firstName":  "Kevin",
+        "lastName":  "Malone",
+        "date":  "2026-05-02",
+        "product":  "1080p Streaming Webcam",
+        "amount":  71.37
+    }
+]
+
+
